@@ -1,4 +1,4 @@
-# linux-cmd
+# linux-command
 Общая информация о памяти
 <code>
 df -h
